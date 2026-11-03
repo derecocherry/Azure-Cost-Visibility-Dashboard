@@ -2,7 +2,6 @@
 
 ![Terraform](https://img.shields.io/badge/Terraform-Azure%20Provider-7B42BC?logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Cost%20Management%20%7C%20Monitor%20%7C%20Logic%20Apps-0078D4?logo=microsoftazure&logoColor=white)
-![Level](https://img.shields.io/badge/Level-Beginner-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 A hands-on project where I built a **cost tracking and alerting system** that turns confusing Azure billing line items into plain-language visibility, with automatic email alerts before spend becomes a surprise.
