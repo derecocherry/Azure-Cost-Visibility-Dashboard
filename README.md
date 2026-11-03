@@ -13,11 +13,8 @@ A hands-on project where I built a **cost tracking and alerting system** that tu
 
 Most small businesses move to the cloud expecting it to be cheaper, then the bill arrives full of line items like `Microsoft.Compute/virtualMachines - $340` that nobody can interpret, predict, or explain. This project replaces that opacity with a system that watches spend continuously, escalates automatically at defined thresholds, and presents everything in a dashboard a non-technical business owner can actually read.
 
-**The interview framing that matters here:** lead with the business outcome: *"I built a system that gives business owners real-time visibility into Azure spend and alerts them before the bill becomes a problem"*. The specific services used are supporting detail, not the headline.
-
 | Detail | Value |
 |---|---|
-| **Difficulty** | Beginner |
 | **Time to complete** | 3–4 hours |
 | **Cloud Provider** | Microsoft Azure |
 | **Core Services** | Cost Management (Budgets), Monitor (Action Groups), Log Analytics, Logic Apps, Azure Workbooks |
